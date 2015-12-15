@@ -4,9 +4,10 @@
 [kokookko1@gmail.com]
 
 == Research Interest
-- In-memory query processing
-- Near-data processing
-- Hardware/Software co-design
+- Database systems
+- Probabilistic databases, Approximate query processing
+- Cloud computing
+- Database visualization
 
 == Work experiences
 - Developer, worked on building SAP's in-memory database engine [http://hana.sap.com/abouthana.html SAP HANA], SAP Labs Korea, Inc., Dec 2011 - Jul 2014
