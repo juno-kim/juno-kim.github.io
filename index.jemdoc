@@ -5,23 +5,8 @@
 PhD student
 \nComputer Science
 \nYale University, New Haven, CT
-\n\nContact: [mail:juno.kim@yale.edu]
+\n\nContact: [juno.kim@yale.edu]
 ~~~
 
-== Research interests
-- Large-scale data management systems, distributed systems
-
-== Work experiences
-- Developer, worked on building SAP's in-memory database engine [http://hana.sap.com/abouthana.html SAP HANA], SAP Labs Korea, Inc., Dec 2011 - Jul 2014
-- Developer (alternative military service), worked on building information systems for universities, Tomato System, Mar 2008 - Jan 2011 
-
-== Entrepreneurial experiences
-- [http://onforb.es/21EiTbt Baek gisa], an automated location based smartphone booking and dispatch platform for the taxi industry in South Korea, Jul 2014 - Feb 2016 
-- [http://www.buzzvil.com/+\#product HONEYSCREEN], a smartphone lock screen advertising platform, currently operating in South Korea, Japan, and Taiwan, Aug 2011 - Jan 2013
-
-== Research projects
-- [https://www.youtube.com/watch?v=haGgCxTQASk FPGA-backed arithmetic calculator], Advisor: [http://www-ise2.ist.osaka-u.ac.jp/~onoye/ Professor Takao Onoye], Information Systems Synthesis Laboratory, Osaka University, Oct 2007 - Feb 2008 
-- [https://github.com/kimujuno/mysql-server/tree/sampling Database sampling]
-
-== Education
-- B.S., /summa cum laude/, Electrical and Computer Engineering, Seoul National University, Feb 2012
+== About Me
+Hi, I am a first year PhD student at the department of computer science at Yale University. I work in the area of large-scale data system. In the past, I have worked on in-memory computing engine [http://go.sap.com/product/technology-platform/hana.html HANA], which leverages multi-core, large-scale main memory to deal with (at least) terabyte-scale data in a single machine. I received an undergraudate degree in electrical and computer engineering from Seoul National University in Korea.
