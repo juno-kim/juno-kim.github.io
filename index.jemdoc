@@ -1,36 +1,38 @@
 = Juno Kim
 
 ~~~
-{}{img_left}{files/mypic.jpg}{Juno Kim}{200px}{HEIGHTpx}{}
-Ph.D. student
-\nDepartment of Computer Science
-\nYale University
-\nNew Haven, CT 06520
-\n\n[juno.kim@yale.edu]
+{}{img_left}{files/junokim.jpeg}{Juno Kim}{165px}{HEIGHTpx}{}
+Ph.D. student\n
+Department of Computer Science\n
+Yale University
+=== Contact
+A.K. Watson 409\n
+51 Prospect Street\n
+New Haven, CT 06520\n
+Email: juno dot kim at yale dot edu
 ~~~
 
-== About Me
-I am a first-year Ph.D. student in the Department of Computer Science at Yale University. I am working on distributed systems with [http://www.cs.yale.edu/homes/mahesh/ Prof. Mahesh Balakrishnan].\n\n
-I have worked on in-memory computing engine [http://go.sap.com/product/technology-platform/hana.html HANA], which leverages multi-core, large-scale main memory to deal with (at least) terabyte-scale data in a single machine. 
+\nI am a first-year Ph.D. student in the Department of Computer Science at Yale University. I am working on distributed systems with [http://www.cs.yale.edu/homes/mahesh/ Prof. Mahesh Balakrishnan].\n\n
+Before joining Yale, I worked on in-memory database engine [http://go.sap.com/product/technology-platform/hana.html SAP HANA], which leverages multi-core, large-scale main memory to deal with (at least) terabyte-scale data in a single machine. 
 
-I received B.S. in Electrical and Computer Engineering at Seoul National University with honors.
+I received B.S. in Electrical and Computer Engineering at Seoul National University.
 
 == Education
-*Yale University*\n
-Ph.D. in Computer Science, Aug. 2016 - Present\n
-*Seoul National University*\n
-B.S. in Electrical and Computer Engineering, Mar. 2004 - Feb. 2012\n
+- Ph.D. Student, [http://cpsc.yale.edu/ Department of Computer Science], Yale University \M Sep 2016 - Present
+- B.S., [http://ece.snu.ac.kr/en Electrical and Computer Engineering], /Summa Cum Laude/, Seoul National University \M Mar 2004 - Feb 2012
 
 == Work Experience
+- Software Engineer, SAP Labs, Seoul, Korea \M Dec 2011 - Jul 2014
+- Software Engineer (alternative military service), Tomato System, Seoul, Korea \M Mar 2008 - Jan 2011
 
 == Publications
-
-== Software
-
-== Teaching Experience
-
-== Talks
-
+- [ "The FlexLog: A Partially Ordered Shared Log,"] Joshua Lockerman, Jose Faleiro, *Juno Kim*, Soham Sankaran, Daniel Abadi, Jim Aspnes, and Mahesh Balakrishnan, In the 26th ACM Symposium on Operating Systems Principles, Oct 2017\n
+[ \[draft\]]
 == Graduate Coursework
-
+=== @ Yale University
+- Operating System Design and Implementation (lecturer: [http://www.cs.yale.edu/homes/shao/ Prof. Zhong Shao])
+- Database Architectures (lecturer: [http://www.cs.yale.edu/homes/dna/ Prof. Daniel Abadi])
+- Building Distributed Systems (lecturer: [http://www.cs.yale.edu/homes/mahesh/ Prof. Mahesh Balakrishnan]) 
+- Advanced Distributed Systems (lecturer: [http://www.cs.yale.edu/homes/mahesh/ Prof. Mahesh Balakrishnan])
+- Cloud Networking (lecturer: [http://www.cs.yale.edu/homes/yu-minlan/ Prof. Minlan Yu])
 == Online Coursework
