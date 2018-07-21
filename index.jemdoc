@@ -12,7 +12,8 @@ Offic: EBU3B 3252\n
 Email: juk146@eng.ucsd.edu
 ~~~
 
-\nI am a Ph.D. student at the Department of Computer Science and Engineering at the University of California, San Diego. I am working in [http://nvsl.ucsd.edu/ Non-Volatile Systems Laboratory] led by [http://cseweb.ucsd.edu/~swanson/ Prof. Steven Swanson].
+\nI am a first year Computer Science PhD student at the University of California, San Diego (UCSD). 
+My advisor is [http://cseweb.ucsd.edu/~swanson/ Prof. Steven Swanson].
 
 Before joining UCSD, I was fortunate to work with [http://www.cs.yale.edu/homes/mahesh/ Prof. Mahesh Balakrishnan] on distributed systems at Yale University.
 
@@ -20,26 +21,26 @@ Before starting my graduate study, I worked as a software engineer at SAP Labs o
 
 I received my bachelor's degree in Electrical and Computer Engineering at Seoul National University, Korea.
 
-#   == Publications
-#   - [ "The FlexLog: A Partially Ordered Shared Log,"] Joshua Lockerman, Jose Faleiro, *Juno Kim*, Soham Sankaran, Daniel Abadi, Jim Aspnes, and Mahesh Balakrishnan, In the 26th ACM Symposium on Operating Systems Principles (SOSP), Oct 2017\n
-    [ \[draft\]]
+== Publications
+- [ "The FlexLog: A Partially Ordered Shared Log,"] Joshua Lockerman, Jose Faleiro, Siddhartha Sen, Daniel Abadi, James Aspnes, *Juno Kim*, Soham Sankaran, and Mahesh Balakrishnan, In the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI), Oct 2018\n
 
 == Education
 - Ph.D. Student, [https://cse.ucsd.edu// Computer Science and Engineering] at University of California, San Diego \M Sep 2017 - Present
-- B.S., [http://ece.snu.ac.kr/en Electrical and Computer Engineering at Seoul National University] (/Summa Cum Laude/) \M Mar 2004 - Feb 2012
+- Ph.D. Student, [https://cpsc.yale.edu// Computer Science] at Yale University \M Sep 2016 - May 2017
+- B.S., [http://ece.snu.ac.kr/en Electrical and Computer Engineering] at Seoul National University (/Summa Cum Laude/) \M Mar 2004 - Feb 2012
 
 == Work Experience
 - Software Engineer, SAP Labs, Seoul, Korea \M Dec 2011 - Jul 2014
 - Software Engineer (alternative military service), Tomato System, Seoul, Korea \M Mar 2008 - Jan 2011
 
-== Graduate Coursework
-=== @ Yale University
-- Advanced Distributed Systems, Spring 2017 (lecturer: [http://www.cs.yale.edu/homes/mahesh/ Prof. Mahesh Balakrishnan])
-- Cloud Networking, Spring 2017 (lecturer: [http://www.cs.yale.edu/homes/yu-minlan/ Prof. Minlan Yu])
-- Operating System Design and Implementation, Fall 2016 (lecturer: [http://www.cs.yale.edu/homes/shao/ Prof. Zhong Shao])
-- Database Architectures, Fall 2016 (lecturer: [http://www.cs.yale.edu/homes/dna/ Prof. Daniel Abadi])
-- Building Distributed Systems, Fall 2016 (lecturer: [http://www.cs.yale.edu/homes/mahesh/ Prof. Mahesh Balakrishnan]) 
+#   == Graduate Coursework
+#   === @ Yale University
+#   - Advanced Distributed Systems, Spring 2017 (lecturer: [http://www.cs.yale.edu/homes/mahesh/ Prof. Mahesh Balakrishnan])
+#   - Cloud Networking, Spring 2017 (lecturer: [http://www.cs.yale.edu/homes/yu-minlan/ Prof. Minlan Yu])
+#   - Operating System Design and Implementation, Fall 2016 (lecturer: [http://www.cs.yale.edu/homes/shao/ Prof. Zhong Shao])
+#   - Database Architectures, Fall 2016 (lecturer: [http://www.cs.yale.edu/homes/dna/ Prof. Daniel Abadi])
+#   - Building Distributed Systems, Fall 2016 (lecturer: [http://www.cs.yale.edu/homes/mahesh/ Prof. Mahesh Balakrishnan]) 
 
-#   == Online Coursework
-#   - Computer Architecture (/In progress/), Coursera, David Wentzlaff, Jul 2017 [ \[certificate\]]
-#   - Machine Learning (/In progress/), Coursera, Andrew Ng, Aug 2017 [ \[certificate\]]
+#   #   == Online Coursework
+#   #   - Computer Architecture (/In progress/), Coursera, David Wentzlaff, Jul 2017 [ \[certificate\]]
+#   #   - Machine Learning (/In progress/), Coursera, Andrew Ng, Aug 2017 [ \[certificate\]]
