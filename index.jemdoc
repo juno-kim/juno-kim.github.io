@@ -24,9 +24,9 @@ Before starting my graduate study, I worked as a software engineer at SAP Labs o
 I received my bachelor's degree in Electrical and Computer Engineering at Seoul National University, Korea.
 
 == Publications
-- [ The FlexLog: A Partially Ordered Shared Log]\n
+- [ The FuzzyLog: A Partially Ordered Shared Log]\n
 Joshua Lockerman, Jose Faleiro, *Juno Kim*, Soham Sankaran, Daniel Abadi, James Aspnes, Siddhartha Sen, Mahesh Balakrishnan\n 
-To appear at the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI'18)\n
+OSDI'2018 (To appear!)
 
 == Education
 - Ph.D. Student, [https://cse.ucsd.edu// Computer Science and Engineering] at University of California, San Diego \M Sep 2017 - Present
