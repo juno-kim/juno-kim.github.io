@@ -24,7 +24,7 @@ Before starting my graduate study, I worked as a software engineer at SAP Labs o
 I received my bachelor's degree in Electrical and Computer Engineering at Seoul National University, Korea.
 
 == Publications
-- [ The FuzzyLog: A Partially Ordered Shared Log]\n
+- [https://www.usenix.org/conference/osdi18/presentation/lockerman The FuzzyLog: A Partially Ordered Shared Log]\n
 Joshua Lockerman, Jose Faleiro, *Juno Kim*, Soham Sankaran, Daniel Abadi, James Aspnes, Siddhartha Sen, Mahesh Balakrishnan\n 
 OSDI'2018 (To appear!)
 
