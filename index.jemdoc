@@ -3,7 +3,7 @@
 
 ~~~
 {}{img_left}{files/junokim.jpeg}{Juno Kim}{165px}{HEIGHTpx}{}
-Ph.D. student\n
+Non-Volatile Systems Laboratory\n
 Computer Science and Engineering\n
 University of California, San Diego\n
 9450 Gilman Drive \#0404\n
@@ -14,7 +14,7 @@ Email: juk146@eng.ucsd.edu
 ~~~
 
 \nI am a first year Computer Science PhD student at the University of California, San Diego (UCSD). 
-My current research focuses on improving performance of persistent memory file system.
+My reserach interests lie in the field of storage architecture for persistent memory.
 My advisor is [http://cseweb.ucsd.edu/~swanson/ Prof. Steven Swanson].
 
 Before joining UCSD, I was fortunate to perform research with [http://www.cs.yale.edu/homes/mahesh/ Prof. Mahesh Balakrishnan] on distributed systems at Yale University.
@@ -26,7 +26,7 @@ I received my bachelor's degree in Electrical and Computer Engineering at Seoul 
 == Publications
 - [https://www.usenix.org/conference/osdi18/presentation/lockerman The FuzzyLog: A Partially Ordered Shared Log]\n
 Joshua Lockerman, Jose Faleiro, *Juno Kim*, Soham Sankaran, Daniel Abadi, James Aspnes, Siddhartha Sen, Mahesh Balakrishnan\n 
-OSDI'2018 (To appear!)
+13th USENIX Symposium on Operating Systems Design and Implementation (*OSDI 2018*) (To appear!)
 
 == Education
 - Ph.D. Student, [https://cse.ucsd.edu// Computer Science and Engineering] at University of California, San Diego \M Sep 2017 - Present
