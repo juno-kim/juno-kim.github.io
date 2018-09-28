@@ -13,7 +13,7 @@ Offic: EBU3B 3252\n
 Email: juk146@eng.ucsd.edu
 ~~~
 
-\nI am a first year Computer Science PhD student at the University of California, San Diego (UCSD). 
+\nI am a 2nd year Computer Science PhD student at the University of California, San Diego (UCSD). 
 My reserach interests lie in the field of storage architecture for persistent memory.
 My advisor is [http://cseweb.ucsd.edu/~swanson/ Prof. Steven Swanson].
 
@@ -26,16 +26,7 @@ I received my bachelor's degree in Electrical and Computer Engineering at Seoul 
 == Publications
 - [https://www.usenix.org/conference/osdi18/presentation/lockerman The FuzzyLog: A Partially Ordered Shared Log]\n
 Joshua Lockerman, Jose Faleiro, *Juno Kim*, Soham Sankaran, Daniel Abadi, James Aspnes, Siddhartha Sen, Mahesh Balakrishnan\n 
-13th USENIX Symposium on Operating Systems Design and Implementation (*OSDI 2018*) (To appear!)
-
-== Education
-- Ph.D. Student, [https://cse.ucsd.edu// Computer Science and Engineering] at University of California, San Diego \M Sep 2017 - Present
-- Ph.D. Student, [https://cpsc.yale.edu// Computer Science] at Yale University \M Sep 2016 - May 2017
-- B.S., [http://ece.snu.ac.kr/en Electrical and Computer Engineering] at Seoul National University (/Summa Cum Laude/) \M Mar 2004 - Feb 2012
-
-== Work Experience
-- Software Engineer, SAP Labs, Seoul, Korea \M Dec 2011 - Jul 2014
-- Software Engineer (alternative military service), Tomato System, Seoul, Korea \M Mar 2008 - Jan 2011
+13th USENIX Symposium on Operating Systems Design and Implementation (*OSDI 2018*)
 
 #   == Graduate Coursework
 #   === @ Yale University
