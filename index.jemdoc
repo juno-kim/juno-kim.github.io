@@ -24,9 +24,17 @@ Before starting my graduate study, I worked as a software engineer at SAP Labs o
 I received my bachelor's degree in Electrical and Computer Engineering at Seoul National University, Korea.
 
 == Publications
-- [https://www.usenix.org/conference/osdi18/presentation/lockerman The FuzzyLog: A Partially Ordered Shared Log]\n
-Joshua Lockerman, Jose Faleiro, *Juno Kim*, Soham Sankaran, Daniel Abadi, James Aspnes, Siddhartha Sen, Mahesh Balakrishnan\n 
+- Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks
+Jian Xu, *Juno Kim*, Amirsaman Memaripour, Steven Swanson
+(under submission)
+- [https://www.usenix.org/conference/osdi18/presentation/lockerman The FuzzyLog: A Partially Ordered Shared Log]
+Joshua Lockerman, Jose Faleiro, *Juno Kim*, Soham Sankaran, Daniel Abadi, James Aspnes, Siddhartha Sen, Mahesh Balakrishnan
 13th USENIX Symposium on Operating Systems Design and Implementation (*OSDI 2018*)
+
+== Talks
+Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks
+- CMRR Research Review, UCSD, Nov 2018 (planned)
+- CNS Research Review, UCSD, Oct 2018 (planned)
 
 #   == Graduate Coursework
 #   === @ Yale University
