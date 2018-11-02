@@ -27,7 +27,7 @@ I received my bachelor's degree in Electrical and Computer Engineering at Seoul 
 - Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks\n
 Jian Xu, *Juno Kim*, Amirsaman Memaripour, Steven Swanson\n
 (under submission)
-- [https://www.usenix.org/conference/osdi18/presentation/lockerman The FuzzyLog: A Partially Ordered Shared Log]\n
+- [https://www.usenix.org/system/files/osdi18-lockerman.pdf The FuzzyLog: A Partially Ordered Shared Log]\n
 Joshua Lockerman, Jose Faleiro, *Juno Kim*, Soham Sankaran, Daniel Abadi, James Aspnes, Siddhartha Sen, Mahesh Balakrishnan\n
 13th USENIX Symposium on Operating Systems Design and Implementation (*OSDI 2018*)
 
