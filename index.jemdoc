@@ -25,15 +25,16 @@ Before starting my graduate study, I worked as a software engineer at SAP Labs o
 I received my bachelor's degree in Electrical and Computer Engineering at Seoul National University, Korea.
 
 == Publications
+\* denotes equal contribution.
+
 - Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks\n
 Jian Xu\*, *Juno Kim\**, Amirsaman Memaripour, Steven Swanson\n
-(To appear in ASPLOS 2019)\n
-/\* Equal contribution./
+*ASPLOS*, 2019\n
 # 74/350=21%
 
-- [https://www.usenix.org/system/files/osdi18-lockerman.pdf The FuzzyLog: A Partially Ordered Shared Log]\n
+- The FuzzyLog: A Partially Ordered Shared Log\n
 Joshua Lockerman, Jose Faleiro, *Juno Kim*, Soham Sankaran, Daniel Abadi, James Aspnes, Siddhartha Sen, Mahesh Balakrishnan\n
-(OSDI 2018)
+*OSDI*, 2018. [https://www.usenix.org/system/files/osdi18-lockerman.pdf paper]
 # 47/264=18%
 
 == Talks
