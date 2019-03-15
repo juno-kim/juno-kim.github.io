@@ -24,8 +24,12 @@ Before starting my graduate study, I worked as a software engineer at SAP Labs o
 
 I received my bachelor's degree in Electrical and Computer Engineering at Seoul National University, Korea.
 
-== Publications
+== Papers 
 \* denotes equal contribution.
+
+- Basic Performance Measurements of the Intel Optane DC Persistent Memory Module\n
+Joseph Izraelevitz, Jian Yang, Lu Zhang, Juno Kim, Xiao Liu, Amirsaman Memaripour, Yun Joon Soh, Zixuan Wang, Yi Xu, Subramanya R. Dulloor, Jishen Zhao, Steven Swanson\n
+arXiv paper. \[[https://arxiv.org/pdf/1903.05714.pdf paper]\]
 
 - Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks\n
 Jian Xu\*, *Juno Kim\**, Amirsaman Memaripour, Steven Swanson\n
