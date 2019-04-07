@@ -28,7 +28,7 @@ I received my bachelor's degree in Electrical and Computer Engineering at Seoul 
 \* denotes equal contribution.
 
 - Basic Performance Measurements of the Intel Optane DC Persistent Memory Module\n
-Joseph Izraelevitz, Jian Yang, Lu Zhang, Juno Kim, Xiao Liu, Amirsaman Memaripour, Yun Joon Soh, Zixuan Wang, Yi Xu, Subramanya R. Dulloor, Jishen Zhao, Steven Swanson\n
+J. Izraelevitz, J. Yang, L. Zhang, *J. Kim*, X. Liu, A. Memaripour, Y. Soh, Z. Wang, Y. Xu, S. Dulloor, J. Zhao, S. Swanson\n
 arXiv paper. \[[https://arxiv.org/pdf/1903.05714.pdf paper]\]
 
 - Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks\n
