@@ -13,8 +13,8 @@ Office: EBU3B 3252\n
 Email: juno@eng.ucsd.edu\n\n
 \[[https://cseweb.ucsd.edu/~juk146/juno-kim-cv.pdf download cv]\]
 ~~~
-
-I am a 3nd-year Computer Science PhD student at the University of California, San Diego (UCSD). 
+\n
+I am a 3rd-year PhD student at the University of California, San Diego (UCSD). 
 My research interests lie in the field of storage systems optimized for persistent memory.
 My advisor is [http://swanson.ucsd.edu/ Prof. Steven Swanson].
 
@@ -28,7 +28,7 @@ I received my bachelor's degree in Electrical and Computer Engineering at Seoul 
 \* denotes equal contribution.
 
 - An Empirical Guide to the Behavior and Use of Scalable Persistent Memory\n
-Jian Yang, *Juno Kim*, Mortesz Hoseinzadeh, Joseph Izraelevitz, Steven Swanson 
+Jian Yang, *Juno Kim*, Mortesz Hoseinzadeh, Joseph Izraelevitz, Steven Swanson\n 
 arXiv paper. \[[https://arxiv.org/pdf/1908.03583.pdf paper]\]
 
 - Basic Performance Measurements of the Intel Optane DC Persistent Memory Module\n
@@ -54,7 +54,6 @@ Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks
 == Experience
 - Research Intern, IBM Research Almaden (Storage Group), San Jose, CA, U.S.A., Jun 2019 - Sep 2019
 - Software Engineer, SAP Labs Korea, Seoul, Korea, Dec 2011 - Jul 2014
->>>>>>> update
 
 == Teaching
 - Teaching Assistant, Modern Storage Systems (CSE 291A), UCSD, Fall 2019
