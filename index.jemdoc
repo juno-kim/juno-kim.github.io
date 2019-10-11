@@ -14,10 +14,8 @@ Email: juno@eng.ucsd.edu\n\n
 \[[https://cseweb.ucsd.edu/~juk146/juno-kim-cv.pdf download cv]\]
 ~~~
 
-\n*I am doing summer internship at IBM Research Almaden for 2019.*
-
-I am a 2nd-year Computer Science PhD student at the University of California, San Diego (UCSD). 
-My research interests lie in the field of storage architecture for persistent memory.
+I am a 3nd-year Computer Science PhD student at the University of California, San Diego (UCSD). 
+My research interests lie in the field of storage systems optimized for persistent memory.
 My advisor is [http://swanson.ucsd.edu/ Prof. Steven Swanson].
 
 Before joining UCSD, I worked with [http://www.cs.yale.edu/homes/mahesh/ Prof. Mahesh Balakrishnan] on distributed systems at Yale University.
@@ -28,6 +26,10 @@ I received my bachelor's degree in Electrical and Computer Engineering at Seoul 
 
 == Papers 
 \* denotes equal contribution.
+
+- An Empirical Guide to the Behavior and Use of Scalable Persistent Memory\n
+Jian Yang, *Juno Kim*, Mortesz Hoseinzadeh, Joseph Izraelevitz, Steven Swanson 
+arXiv paper. \[[https://arxiv.org/pdf/1908.03583.pdf paper]\]
 
 - Basic Performance Measurements of the Intel Optane DC Persistent Memory Module\n
 J. Izraelevitz, J. Yang, L. Zhang, *J. Kim*, X. Liu, A. Memaripour, Y. Soh, Z. Wang, Y. Xu, S. Dulloor, J. Zhao, S. Swanson\n
@@ -49,8 +51,13 @@ Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks
 - CMRR Research Review, UCSD, Nov 2018
 - CNS Research Review, UCSD, Oct 2018
 
-#   == Teaching
-#   - Teaching Assistant, Modern Storage Systems (CSE 291), UCSD, Fall 2019
+== Experience
+- Research Intern, IBM Research Almaden (Storage Group), San Jose, CA, U.S.A., Jun 2019 - Sep 2019
+- Software Engineer, SAP Labs Korea, Seoul, Korea, Dec 2011 - Jul 2014
+>>>>>>> update
+
+== Teaching
+- Teaching Assistant, Modern Storage Systems (CSE 291A), UCSD, Fall 2019
 
 #   == Services
 #   - Reviewer, IEEE MASCOTS 2019
