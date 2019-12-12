@@ -47,6 +47,8 @@ OSDI 2018. \[[https://www.usenix.org/system/files/osdi18-lockerman.pdf paper]\]
 (47/264=18%)
 
 == Talks
+# Sub-Zero: Zero-copy IO for Persistent Main Memory File Systems
+# - CNS Research Review, UCSD, Oct 2019
 Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks
 - ASPLOS, Providence, RI, Apr 2019
 - CMRR Research Review, UCSD, Nov 2018
