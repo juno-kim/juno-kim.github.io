@@ -52,8 +52,8 @@ OSDI 2018. \[[https://www.usenix.org/system/files/osdi18-lockerman.pdf paper]\]
 (47/264=18%)
 
 == Talks
-An Empirical Guide to the Behavior and Use of Scalable Persistent Memory
-- NVMW, San Diego, CA, Mar 2020
+# An Empirical Guide to the Behavior and Use of Scalable Persistent Memory
+# - NVMW, San Diego, CA, Mar 2020
 
 # Sub-Zero: Zero-copy IO for Persistent Main Memory File Systems
 # - CNS Research Review, UCSD, Oct 2019
