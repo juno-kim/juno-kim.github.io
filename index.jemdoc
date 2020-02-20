@@ -52,8 +52,12 @@ OSDI 2018. \[[https://www.usenix.org/system/files/osdi18-lockerman.pdf paper]\]
 (47/264=18%)
 
 == Talks
+An Empirical Guide to the Behavior and Use of Scalable Persistent Memory
+- NVMW, San Diego, CA, Mar 2020
+
 # Sub-Zero: Zero-copy IO for Persistent Main Memory File Systems
 # - CNS Research Review, UCSD, Oct 2019
+
 Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks
 - ASPLOS, Providence, RI, Apr 2019
 - CMRR Research Review, UCSD, Nov 2018
@@ -66,8 +70,8 @@ Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks
 == Teaching
 - Teaching Assistant, Modern Storage Systems (CSE 291A), UCSD, Fall 2019
 
-#   == Services
-#   - Reviewer, IEEE MASCOTS 2019
+== Services
+- Reviewer, IEEE MASCOTS 2019
 
 #   == Graduate Coursework
 #   === @ Yale University
