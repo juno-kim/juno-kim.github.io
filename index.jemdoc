@@ -27,6 +27,9 @@ I received my bachelor's degree in Electrical and Computer Engineering at Seoul 
 == Papers 
 \* denotes equal contribution.
 
+# - *: A Thin Runtime Library for Efficient NVMM Management*\n
+# Juno Kim, Joseph Izraelevitz, Steven Swanson\n
+
 # - *Sub-Zero: Zero-copy IO for Persistent Main Memory File Systems*\n
 # Juno Kim, Yun Joon Soh, Joseph Izraelevitz, Jishen Zhao, Steven Swanson
 # ATC 2020 (to appear)
