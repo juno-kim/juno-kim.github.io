@@ -28,10 +28,6 @@ I received my bachelor's degree in Electrical and Computer Engineering at Seoul 
 # - *: A Thin Runtime Library for Efficient NVMM Management*\n
 # Juno Kim, Joseph Izraelevitz, Steven Swanson\n
 
-#   - *An Empirical Guide to the Behavior and Use of Scalable Persistent Memory*\n
-#   Jian Yang, Juno Kim, Morteza Hoseinzadeh, Joseph Izraelevitz, Steven Swanson\n 
-#   NVMW 2020. \[[https://www.usenix.org/system/files/fast20-yang.pdf paper]\]
-
 *Conference*
 - An Empirical Guide to the Behavior and Use of Scalable Persistent Memory\n
 Jian Yang, Juno Kim, Morteza Hoseinzadeh, Joseph Izraelevitz, Steven Swanson\n 
@@ -53,6 +49,11 @@ OSDI 2018. \[[https://www.usenix.org/system/files/osdi18-lockerman.pdf paper]\]
 - Sub-Zero: Zero-copy IO for Persistent Main Memory File Systems\n
 Juno Kim, Yun Joon Soh, Joseph Izraelevitz, Jishen Zhao, Steven Swanson\n
 APSys 2020. (16/41=39%, to appear)
+
+- An Empirical Guide to the Behavior and Use of Scalable Persistent Memory\n
+Jian Yang, Juno Kim, Morteza Hoseinzadeh, Joseph Izraelevitz, Steven Swanson\n 
+NVMW 2020.
+
 
 *Technical report*
 - Basic Performance Measurements of the Intel Optane DC Persistent Memory Module\n
