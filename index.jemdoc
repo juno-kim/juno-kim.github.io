@@ -45,7 +45,7 @@ Joshua Lockerman, Jose Faleiro, Juno Kim, Soham Sankaran, Daniel Abadi, James As
 OSDI 2018. \[[https://www.usenix.org/system/files/osdi18-lockerman.pdf paper]\]
 (47/264=18%)
 
-*Workshop*
+*Short Papers/Early Ideas*
 - Sub-Zero: Zero-copy IO for Persistent Main Memory File Systems\n
 Juno Kim, Yun Joon Soh, Joseph Izraelevitz, Jishen Zhao, Steven Swanson\n
 APSys 2020. (16/41=39%, to appear)
@@ -55,7 +55,7 @@ Jian Yang, Juno Kim, Morteza Hoseinzadeh, Joseph Izraelevitz, Steven Swanson\n
 NVMW 2020.
 
 
-*Technical report*
+*Technical Reports*
 - Basic Performance Measurements of the Intel Optane DC Persistent Memory Module\n
 J. Izraelevitz, J. Yang, L. Zhang, J. Kim, X. Liu, A. Memaripour, Y. Soh, Z. Wang, Y. Xu, S. Dulloor, J. Zhao, S. Swanson\n
 arXiv paper. \[[https://arxiv.org/pdf/1903.05714.pdf paper]\]
