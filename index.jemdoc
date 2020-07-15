@@ -29,18 +29,18 @@ I received my bachelor's degree in Electrical and Computer Engineering at Seoul 
 # Juno Kim, Joseph Izraelevitz, Steven Swanson\n
 
 *Conference Papers*
-- *[https://www.usenix.org/system/files/fast20-yang.pdf An Empirical Guide to the Behavior and Use of Scalable Persistent Memory]*\n
+- [https://www.usenix.org/system/files/fast20-yang.pdf An Empirical Guide to the Behavior and Use of Scalable Persistent Memory]\n
 Jian Yang, *Juno Kim*, Morteza Hoseinzadeh, Joseph Izraelevitz, Steven Swanson\n 
 FAST 2020.
 #(23/138=17%)
 
-- *[http://cseweb.ucsd.edu/~juk146/papers/ASPLOS2019-APP.pdf Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks]*\n
+- [http://cseweb.ucsd.edu/~juk146/papers/ASPLOS2019-APP.pdf Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks]\n
 Jian Xu\*, *Juno Kim*\*, Amirsaman Memaripour, Steven Swanson\n
 ASPLOS 2019. \[[http://cseweb.ucsd.edu/~juk146/papers/asplos19-kim.pdf slide]\] \[[https://www.youtube.com/watch?v=NnC_AR8rvmA lightning]\]\n
 (\* equal contribution)
 #(74/350=21%) 
 
-- *[https://www.usenix.org/system/files/osdi18-lockerman.pdf The FuzzyLog: A Partially Ordered Shared Log]*\n
+- [https://www.usenix.org/system/files/osdi18-lockerman.pdf The FuzzyLog: A Partially Ordered Shared Log]\n
 Joshua Lockerman, Jose Faleiro, *Juno Kim*, Soham Sankaran, Daniel Abadi, James Aspnes, Siddhartha Sen, Mahesh Balakrishnan\n
 OSDI 2018.
 #(47/264=18%)
@@ -57,7 +57,7 @@ NVMW 2020.
 
 
 *Technical Reports*
-- *[https://arxiv.org/pdf/1903.05714.pdf Basic Performance Measurements of the Intel Optane DC Persistent Memory Module]*\n
+- [https://arxiv.org/pdf/1903.05714.pdf Basic Performance Measurements of the Intel Optane DC Persistent Memory Module]\n
 J. Izraelevitz, J. Yang, L. Zhang, *J. Kim*, X. Liu, A. Memaripour, Y. Soh, Z. Wang, Y. Xu, S. Dulloor, J. Zhao, S. Swanson\n
 arXiv paper.
 
