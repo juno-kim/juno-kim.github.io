@@ -686,6 +686,10 @@ def br(b, f, tableblock=False):
   r = re.compile(r'(?<!\\)\+(.*?)(?<!\\)\+', re.M + re.S)
   b = re.sub(r, r'<tt>\1</tt>', b)
 
+  # Deal with @underline@.
+  r = re.compile(r'(?<!\\)\@(.*?)(?<!\\)\@', re.M + re.S)
+  b = re.sub(r, r'<u>\1</u>', b)
+
   # Deal with "double quotes".
   r = re.compile(r'(?<!\\)"(.*?)(?<!\\)"', re.M + re.S)
   b = re.sub(r, r'&ldquo;\1&rdquo;', b)
