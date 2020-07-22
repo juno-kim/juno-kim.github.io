@@ -46,6 +46,9 @@ OSDI 2018.
 #(47/264=18%)
 
 *Short Papers/Early Ideas*
+#   - Toward Efficient Graph Processing on Persistent Memory\
+#   @Juno Kim@, Steven Swanson\n
+#   To appear in TECHCON 2020.
 - Sub-Zero: Zero-copy IO for Persistent Main Memory File Systems\n
 @Juno Kim@, Yun Joon Soh, Joseph Izraelevitz, Jishen Zhao, Steven Swanson\n
 To appear in APSys 2020.
