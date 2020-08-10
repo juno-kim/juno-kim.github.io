@@ -52,6 +52,7 @@ OSDI 2018.
 - Sub-Zero: Zero-copy IO for Persistent Main Memory File Systems\n
 @Juno Kim@, Yun Joon Soh, Joseph Izraelevitz, Jishen Zhao, Steven Swanson\n
 To appear in APSys 2020.
+#APSys 2020. \[[http://cseweb.ucsd.edu/~juk146/papers/apsys20-kim.pdf slide]\] \[[http://cseweb.ucsd.edu/~juk146/papers/apsys20-kim.mp4 talk]\]
 #(16/41=39%)
 
 - An Empirical Guide to the Behavior and Use of Scalable Persistent Memory\n
