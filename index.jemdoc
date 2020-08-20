@@ -59,7 +59,6 @@ To appear in APSys 2020.
 Jian Yang, @Juno Kim@, Morteza Hoseinzadeh, Joseph Izraelevitz, Steven Swanson\n 
 NVMW 2020.
 
-
 *Technical Reports*
 - [https://arxiv.org/pdf/1903.05714.pdf Basic Performance Measurements of the Intel Optane DC Persistent Memory Module]\n
 J. Izraelevitz, J. Yang, L. Zhang, @J. Kim@, X. Liu, A. Memaripour, Y. Soh, Z. Wang, Y. Xu, S. Dulloor, J. Zhao, S. Swanson\n
@@ -70,7 +69,11 @@ arXiv paper.
 # An Empirical Guide to the Behavior and Use of Scalable Persistent Memory
 # - NVMW, San Diego, CA, Mar 2020
 
+# Toward Efficient Graph Processing on Persistent Memory\
+# - SRC TECHCON, Virtual, Sep 2020
+
 Sub-Zero: Zero-copy IO for Persistent Main Memory File Systems
+# - APSys, Virtual, Aug 2020
 - CNS Research Review, UCSD, Oct 2019
 
 Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks
