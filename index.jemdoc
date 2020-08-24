@@ -35,8 +35,7 @@ FAST 2020.
 #(23/138=17%)
 
 - [http://cseweb.ucsd.edu/~juk146/papers/ASPLOS2019-APP.pdf Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks]\n
-Jian Xu\*, @Juno Kim\*@, Amirsaman Memaripour, Steven Swanson\n
-(/\* equal contribution/)\n
+Jian Xu\*, @Juno Kim\*@, Amirsaman Memaripour, Steven Swanson (/\* co-first authors/)\n
 ASPLOS 2019. \[[https://juno-kim.github.io/papers/asplos19-kim.pdf slide]\] \[[https://www.youtube.com/watch?v=NnC_AR8rvmA lightning]\]
 #(74/350=21%) 
 
