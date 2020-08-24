@@ -690,6 +690,10 @@ def br(b, f, tableblock=False):
   r = re.compile(r'(?<!\\)\@(.*?)(?<!\\)\@', re.M + re.S)
   b = re.sub(r, r'<u>\1</u>', b)
 
+  # Deal with ^red^.
+  r = re.compile(r'(?<!\\)\^(.*?)(?<!\\)\^', re.M + re.S)
+  b = re.sub(r, r'<span style=\"color:red;\">\1</span>', b)
+
   # Deal with "double quotes".
   r = re.compile(r'(?<!\\)"(.*?)(?<!\\)"', re.M + re.S)
   b = re.sub(r, r'&ldquo;\1&rdquo;', b)
