@@ -28,6 +28,12 @@ I received my bachelor's degree in Electrical and Computer Engineering at Seoul 
 # - *: A Thin Runtime Library for Efficient NVMM Management*\n
 # Juno Kim, Joseph Izraelevitz, Steven Swanson\n
 
+- [https://www.usenix.org/conference/atc21/presentation/huang-hanxian Ayudante: A Deep Reinforcement Learning Approach to Assist Persistent Memory Programming]\n
+Hanxian Huang, Zixuan Wang, @Juno Kim@, Steven Swanson, and Jishen Zhao\n 
+ATC 2021
+#(64/341=19%)
+
+
 - Toward Efficient Graph Processing on Persistent Memory\n
 @Juno Kim@, Steven Swanson\n
 SRC TECHCON 2020
@@ -75,6 +81,7 @@ Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks
 
 == Experience
 *Work*
+- Software Engineering Intern, Intel, Remote, Jun 2021 - Sep 2021
 - Research Intern, IBM Research Almaden (Storage Group), San Jose, CA, U.S.A., Jun 2019 - Sep 2019
 - Software Engineer, SAP Labs Korea, Seoul, Korea, Dec 2011 - Jul 2014
 
