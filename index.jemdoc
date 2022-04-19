@@ -86,8 +86,8 @@ Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks
 *Work*
 - Software Engineering Intern, Intel, Remote, Jun 2021 - Sep 2021
 -- I prototyped a software library that leverages Intel’s new DMA engine (Data
-Streaming Accelerator or DSA) for efficient persistent memory access.  My work
-became a basis for [https://github.com/pmem/miniasync Intel's recent open-sourced
+Streaming Accelerator or DSA) for efficient persistent memory access.
+-- My work became a basis for [https://github.com/pmem/miniasync Intel's recent open-sourced
 async library]. 
 - Research Intern, IBM Research Almaden (Storage Group), San Jose, CA, U.S.A., Jun 2019 - Sep 2019
 - Software Engineer, SAP Labs Korea, Seoul, Korea, Dec 2011 - Jul 2014
@@ -98,9 +98,7 @@ async library].
 
 *Teaching*
 - Teaching Assistant, Modern Storage Systems (CSE 291A), UCSD, Fall 2019
--- I built a course project for building and testing crash-consistent key-value
-stores on top of PMEM using Intel's PMDK library.  The project link
-is [https://github.com/UCSD-Modern-Storage-Systems/MSS-KV-lab here].
+-- A course project I built can be found [https://github.com/UCSD-Modern-Storage-Systems/MSS-KV-lab here].
 #   == Graduate Coursework
 #   === @ Yale University
 #   - Advanced Distributed Systems, Spring 2017 (lecturer: [http://www.cs.yale.edu/homes/mahesh/ Prof. Mahesh Balakrishnan])
