@@ -37,9 +37,9 @@ ATC 2021
 #(64/341=19%)
 
 
-- Toward Efficient Graph Processing on Persistent Memory\n
-@Juno Kim@, Steven Swanson\n
-SRC TECHCON 2020
+# - Toward Efficient Graph Processing on Persistent Memory\n
+# @Juno Kim@, Steven Swanson\n
+# SRC TECHCON 2020
 
 - [https://dl.acm.org/doi/10.1145/3409963.3410489 SubZero: Zero-copy IO for Persistent Main Memory File Systems]\n
 @Juno Kim@, Yun Joon Soh, Joseph Izraelevitz, Jishen Zhao, Steven Swanson\n
