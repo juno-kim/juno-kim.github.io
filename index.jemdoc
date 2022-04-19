@@ -28,11 +28,11 @@ I received my bachelor's degree in Electrical and Computer Engineering at Seoul 
 # Juno Kim, Joseph Izraelevitz, Steven Swanson\n
 
 - Blaze: Fast Graph Processing on Fast SSDs\n
-@Juno Kim@, Steven Swanson\n 
+*Juno Kim*, Steven Swanson\n 
 In submission
 
 - [https://www.usenix.org/conference/atc21/presentation/huang-hanxian Ayudante: A Deep Reinforcement Learning Approach to Assist Persistent Memory Programming]\n
-Hanxian Huang, Zixuan Wang, @Juno Kim@, Steven Swanson, and Jishen Zhao\n 
+Hanxian Huang, Zixuan Wang, *Juno Kim*, Steven Swanson, and Jishen Zhao\n 
 ATC 2021
 #(64/341=19%)
 
@@ -42,27 +42,27 @@ ATC 2021
 # SRC TECHCON 2020
 
 - [https://dl.acm.org/doi/10.1145/3409963.3410489 SubZero: Zero-copy IO for Persistent Main Memory File Systems]\n
-@Juno Kim@, Yun Joon Soh, Joseph Izraelevitz, Jishen Zhao, Steven Swanson\n
+*Juno Kim*, Yun Joon Soh, Joseph Izraelevitz, Jishen Zhao, Steven Swanson\n
 APSys 2020 \[[https://juno-kim.github.io/papers/apsys2020-kim.pdf slide]\] \[[https://www.youtube.com/watch?v=W6nphsPXXww talk]\]
 (^Best paper award^)
 #(16/41=39%)
 
 - [https://www.usenix.org/system/files/fast20-yang.pdf An Empirical Guide to the Behavior and Use of Scalable Persistent Memory]\n
-Jian Yang, @Juno Kim@, Morteza Hoseinzadeh, Joseph Izraelevitz, Steven Swanson\n 
+Jian Yang, *Juno Kim*, Morteza Hoseinzadeh, Joseph Izraelevitz, Steven Swanson\n 
 FAST 2020 (Also appeared in NVMW 2020, USENIX ;login: Fall 2020)
 #(23/138=17%)
 
 - [http://cseweb.ucsd.edu/~juk146/papers/ASPLOS2019-APP.pdf Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks]\n
-Jian Xu\*, @Juno Kim@\*, Amirsaman Memaripour, Steven Swanson (/\* co-first authors/)\n
+*Juno Kim*\*, Jian Xu\*, Amirsaman Memaripour, Steven Swanson (/\* co-first authors/)\n
 ASPLOS 2019 \[[https://juno-kim.github.io/papers/asplos19-kim.pdf slide]\] \[[https://www.youtube.com/watch?v=NnC_AR8rvmA lightning]\]
 #(74/350=21%) 
 
 - [https://arxiv.org/pdf/1903.05714.pdf Basic Performance Measurements of the Intel Optane DC Persistent Memory Module]\n
-J. Izraelevitz, J. Yang, L. Zhang, @J. Kim@, X. Liu, A. Memaripour, Y. Soh, Z. Wang, Y. Xu, S. Dulloor, J. Zhao, S. Swanson\n
+J. Izraelevitz, J. Yang, L. Zhang, *J. Kim*, X. Liu, A. Memaripour, Y. Soh, Z. Wang, Y. Xu, S. Dulloor, J. Zhao, S. Swanson\n
 arXiv 2019
 
 - [https://www.usenix.org/system/files/osdi18-lockerman.pdf The FuzzyLog: A Partially Ordered Shared Log]\n
-Joshua Lockerman, Jose Faleiro, @Juno Kim@, Soham Sankaran, Daniel Abadi, James Aspnes, Siddhartha Sen, Mahesh Balakrishnan\n
+Joshua Lockerman, Jose Faleiro, *Juno Kim*, Soham Sankaran, Daniel Abadi, James Aspnes, Siddhartha Sen, Mahesh Balakrishnan\n
 OSDI 2018
 #(47/264=18%)
 
