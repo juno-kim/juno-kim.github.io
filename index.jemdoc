@@ -87,7 +87,7 @@ Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks
 - Software Engineering Intern, Intel, Remote, Jun 2021 - Sep 2021
 -- I prototyped a software library that leverages Intel’s new DMA engine (Data
 Streaming Accelerator or DSA) for efficient persistent memory access.
--- My work became a basis for [https://github.com/pmem/miniasync Intel's recent open-sourced
+-- My work has evolved into [https://github.com/pmem/miniasync Intel's recent open-sourced
 async library]. 
 - Research Intern, IBM Research Almaden (Storage Group), San Jose, CA, U.S.A., Jun 2019 - Sep 2019
 - Software Engineer, SAP Labs Korea, Seoul, Korea, Dec 2011 - Jul 2014
