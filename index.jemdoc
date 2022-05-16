@@ -44,7 +44,7 @@ ATC 2021
 - [https://dl.acm.org/doi/10.1145/3409963.3410489 SubZero: Zero-copy IO for Persistent Main Memory File Systems]\n
 *Juno Kim*, Yun Joon Soh, Joseph Izraelevitz, Jishen Zhao, Steven Swanson\n
 APSys 2020 \[[https://juno-kim.github.io/papers/apsys2020-kim.pdf slide]\] \[[https://www.youtube.com/watch?v=W6nphsPXXww talk]\]
-(^Awarded Best Paper^)
+(^Best Paper^)
 #(16/41=39%)
 
 - [https://www.usenix.org/system/files/fast20-yang.pdf An Empirical Guide to the Behavior and Use of Scalable Persistent Memory]\n
