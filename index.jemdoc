@@ -59,7 +59,7 @@ J. Izraelevitz, J. Yang, L. Zhang, *J. Kim*, X. Liu, A. Memaripour, Y. Soh, Z. W
 
 - [https://www.usenix.org/system/files/osdi18-lockerman.pdf The FuzzyLog: A Partially Ordered Shared Log]\n
 Joshua Lockerman, Jose Faleiro, *Juno Kim*, Soham Sankaran, Daniel Abadi, James Aspnes, Siddhartha Sen, Mahesh Balakrishnan\n
-`OSDI 2018` +(47/264=18%)+
+`OSDI 2018` +(47/257=18%)+
 
 == Talks
 # An Empirical Guide to the Behavior and Use of Scalable Persistent Memory
