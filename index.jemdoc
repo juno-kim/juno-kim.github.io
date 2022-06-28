@@ -79,6 +79,7 @@ Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks
 
 == Experience
 *Work*
+- Research Intern, Intel Labs, Remote, Jun 2022 - Sep 2022
 - Software Engineering Intern, Intel, Remote, Jun 2021 - Sep 2021
 -- I prototyped a software library that leverages Intel’s new DMA engine (Data
 Streaming Accelerator or DSA) for efficient persistent memory access.
