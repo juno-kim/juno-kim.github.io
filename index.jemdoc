@@ -29,37 +29,43 @@ I received my bachelor's degree in Electrical and Computer Engineering at Seoul 
 
 - Blaze: Fast Graph Processing on Fast SSDs\n
 *Juno Kim*, Steven Swanson\n 
-`SC 2022` \[[https://juno-kim.github.io/files/sc22-blaze.pdf paper]\] \[[https://juno-kim.github.io/files/sc22-blaze.pptx slides]\] \[[https://github.com/NVSL/blaze code]\]
+`SC 2022`\n
+\[[https://juno-kim.github.io/files/sc22-blaze.pdf paper]\] \[[https://juno-kim.github.io/files/sc22-blaze-slides.pptx slides]\] \[[https://github.com/NVSL/blaze code]\]
 
-- [https://www.usenix.org/conference/atc21/presentation/huang-hanxian Ayudante: A Deep Reinforcement Learning Approach to Assist Persistent Memory Programming]\n
+- Ayudante: A Deep Reinforcement Learning Approach to Assist Persistent Memory Programming\n
 Hanxian Huang, Zixuan Wang, *Juno Kim*, Steven Swanson, and Jishen Zhao\n 
-`ATC 2021` +(64/341=19%)+
+`ATC 2021` +(64/341=19%)+\n
+\[[https://www.usenix.org/conference/atc21/presentation/huang-hanxian paper]\]
 
 
 # - Toward Efficient Graph Processing on Persistent Memory\n
 # @Juno Kim@, Steven Swanson\n
 # SRC TECHCON 2020
 
-- [https://dl.acm.org/doi/10.1145/3409963.3410489 SubZero: Zero-copy IO for Persistent Main Memory File Systems]\n
+- SubZero: Zero-copy IO for Persistent Main Memory File Systems\n
 *Juno Kim*, Yun Joon Soh, Joseph Izraelevitz, Jishen Zhao, Steven Swanson\n
-`APSys 2020` +(16/41=39%)+ \[[https://juno-kim.github.io/papers/apsys2020-kim.pdf slide]\] \[[https://www.youtube.com/watch?v=W6nphsPXXww talk]\]
-(^Best Paper^)
+`APSys 2020` +(16/41=39%)+ (^Best Paper^)\n
+\[[https://dl.acm.org/doi/10.1145/3409963.3410489 paper]\] \[[https://juno-kim.github.io/papers/apsys2020-kim-slides.pdf slides]\] \[[https://www.youtube.com/watch?v=W6nphsPXXww talk]\]
 
-- [https://www.usenix.org/system/files/fast20-yang.pdf An Empirical Guide to the Behavior and Use of Scalable Persistent Memory]\n
+- An Empirical Guide to the Behavior and Use of Scalable Persistent Memory\n
 Jian Yang, *Juno Kim*, Morteza Hoseinzadeh, Joseph Izraelevitz, Steven Swanson\n 
-`FAST 2020` +(23/138=17%)+ (Also appeared in NVMW 2020, USENIX ;login: Fall 2020)
+`FAST 2020` +(23/138=17%)+ (Also appeared in NVMW 2020, USENIX ;login: Fall 2020)\n
+\[[https://www.usenix.org/system/files/fast20-yang.pdf paper]\]
 
-- [http://cseweb.ucsd.edu/~juk146/papers/ASPLOS2019-APP.pdf Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks]\n
+- Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks\n
 Jian Xu\*, *Juno Kim*\*, Amirsaman Memaripour, Steven Swanson (/\* co-first authors/)\n
-`ASPLOS 2019` +(74/350=21%)+ \[[https://juno-kim.github.io/papers/asplos19-kim.pdf slide]\] \[[https://www.youtube.com/watch?v=NnC_AR8rvmA lightning]\]
+`ASPLOS 2019` +(74/350=21%)+\n
+\[[http://cseweb.ucsd.edu/~juk146/papers/ASPLOS2019-APP.pdf paper]\] \[[https://juno-kim.github.io/papers/asplos19-kim-slides.pdf slides]\] \[[https://www.youtube.com/watch?v=NnC_AR8rvmA lightning]\]
 
-- [https://arxiv.org/pdf/1903.05714.pdf Basic Performance Measurements of the Intel Optane DC Persistent Memory Module]\n
+- Basic Performance Measurements of the Intel Optane DC Persistent Memory Module\n
 J. Izraelevitz, J. Yang, L. Zhang, *J. Kim*, X. Liu, A. Memaripour, Y. Soh, Z. Wang, Y. Xu, S. Dulloor, J. Zhao, S. Swanson\n
-`arXiv 2019`
+`arXiv 2019`\n
+\[[https://arxiv.org/pdf/1903.05714.pdf paper]\]
 
-- [https://www.usenix.org/system/files/osdi18-lockerman.pdf The FuzzyLog: A Partially Ordered Shared Log]\n
+- The FuzzyLog: A Partially Ordered Shared Log\n
 Joshua Lockerman, Jose Faleiro, *Juno Kim*, Soham Sankaran, Daniel Abadi, James Aspnes, Siddhartha Sen, Mahesh Balakrishnan\n
-`OSDI 2018` +(47/257=18%)+
+`OSDI 2018` +(47/257=18%)+\n
+\[[https://www.usenix.org/system/files/osdi18-lockerman.pdf paper]\]
 
 == Experiences
 *Work*
