@@ -29,7 +29,7 @@ I received my bachelor's degree in Electrical and Computer Engineering at Seoul 
 
 - Blaze: Fast Graph Processing on Fast SSDs\n
 *Juno Kim*, Steven Swanson\n 
-`SC 2022 (to appear)` \[[https://github.com/NVSL/blaze code]\]
+`SC 2022` \[[https://juno-kim.github.io/files/sc22-blaze.pdf paper]\] \[[https://juno-kim.github.io/files/sc22-blaze.pptx slides]\] \[[https://github.com/NVSL/blaze code]\]
 
 - [https://www.usenix.org/conference/atc21/presentation/huang-hanxian Ayudante: A Deep Reinforcement Learning Approach to Assist Persistent Memory Programming]\n
 Hanxian Huang, Zixuan Wang, *Juno Kim*, Steven Swanson, and Jishen Zhao\n 
