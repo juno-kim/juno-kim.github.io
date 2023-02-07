@@ -90,6 +90,9 @@ Joshua Lockerman, Jose Faleiro, *Juno Kim*, Soham Sankaran, Daniel Abadi, James 
 # Toward Efficient Graph Processing on Persistent Memory\
 # - SRC TECHCON, Virtual, Sep 2020
 
+Blaze: Fast Graph Processing on Fast SSDs
+- SC, Dallas, TX, Nov 2022
+
 SubZero: Zero-copy IO for Persistent Main Memory File Systems
 - APSys (virtual), Tsukuba, Japan, Aug 2020
 - CNS Research Review, UCSD, Oct 2019
