@@ -3,23 +3,23 @@
 
 ~~~
 {}{img_left}{files/profile.jpeg}{Juno Kim}{220px}{HEIGHTpx}{}
-Non-Volatile Systems Laboratory\n
-Computer Science and Engineering\n
-University of California, San Diego\n
-9450 Gilman Drive \#0404\n
-La Jolla, CA 92093-0404\n
+# Non-Volatile Systems Laboratory\n
+# Computer Science and Engineering\n
+# University of California, San Diego\n
+# 9450 Gilman Drive \#0404\n
+# La Jolla, CA 92093-0404\n
 === Contact
-Office: EBU3B 3252\n
-Email: juno@eng.ucsd.edu\n\n
+Email: juno.k.kim@oracle.com\n\n
 \[[https://juno-kim.github.io/files/resume_jkim.pdf CV]\] \[[https://scholar.google.com/citations?user=P_cnmgIAAAAJ&hl=en Google Scholar]\]
 ~~~
 
-\nI am a PhD candidate at UCSD CSE working with my advisor [http://swanson.ucsd.edu/ Prof. Steven Swanson].
-My research interest lies in building fast and reliable data storage\/processing systems by leveraging a spectrum of different memory\/storage technologies including persistent memory.
+\nI am currently a software engineer at Oracle, where I work on building next-generation Oracle Database engine with a primary focus on efficient in-memory analytics and fast storage access.
+
+Prior to joining Oracle, I received my PhD at UCSD in 2023 with [http://swanson.ucsd.edu/ Steven Swanson] on advanced software techniques for emerging memory technologies.
 
 Before joining UCSD, I worked with [https://maheshba.bitbucket.io/ Mahesh Balakrishnan] on distributed systems at Yale University.
 
-Before starting my graduate study, I worked as software engineer at SAP Labs Korea on building the scalable and distributed in-memory database engine, SAP HANA.
+Before starting my graduate study, I worked as a software engineer at SAP Labs on building SAP HANA in-memory database engine.
 
 I received my bachelor's degree in Electrical and Computer Engineering at Seoul National University, Korea.
 
@@ -29,33 +29,33 @@ I received my bachelor's degree in Electrical and Computer Engineering at Seoul 
 
 - Blaze: Fast Graph Processing on Fast SSDs\n
 *Juno Kim*, Steven Swanson\n 
-`SC 2022` +(81/320=25%)+\n
-\[[https://juno-kim.github.io/papers/sc22-blaze.pdf paper]\] \[[https://juno-kim.github.io/papers/sc22-blaze-slides.pptx slides]\] \[[https://github.com/NVSL/blaze code]\]
+`SC 2022`\n
+\[[https://juno-kim.github.io/papers/sc22-blaze.pdf paper]\] \[[https://juno-kim.github.io/papers/sc22-blaze-slides.pptx slides]\] \[[https://github.com/NVSL/blaze code]\]\n
+# +(81/320=25%)+
 
 - Ayudante: A Deep Reinforcement Learning Approach to Assist Persistent Memory Programming\n
 Hanxian Huang, Zixuan Wang, *Juno Kim*, Steven Swanson, and Jishen Zhao\n 
-`ATC 2021` +(64/341=19%)+\n
-\[[https://www.usenix.org/conference/atc21/presentation/huang-hanxian paper]\]
-
-
-# - Toward Efficient Graph Processing on Persistent Memory\n
-# @Juno Kim@, Steven Swanson\n
-# SRC TECHCON 2020
+`ATC 2021`\n
+\[[https://www.usenix.org/conference/atc21/presentation/huang-hanxian paper]\]\n
+# +(64/341=19%)+
 
 - SubZero: Zero-copy IO for Persistent Main Memory File Systems\n
 *Juno Kim*, Yun Joon Soh, Joseph Izraelevitz, Jishen Zhao, Steven Swanson\n
-`APSys 2020` +(16/41=39%)+ (^Best Paper^)\n
+`APSys 2020` (^Best Paper^)\n
 \[[https://dl.acm.org/doi/10.1145/3409963.3410489 paper]\] \[[https://juno-kim.github.io/papers/apsys2020-kim-slides.pdf slides]\] \[[https://www.youtube.com/watch?v=W6nphsPXXww talk]\]
+# +(16/41=39%)+
 
 - An Empirical Guide to the Behavior and Use of Scalable Persistent Memory\n
 Jian Yang, *Juno Kim*, Morteza Hoseinzadeh, Joseph Izraelevitz, Steven Swanson\n 
-`FAST 2020` +(23/138=17%)+ (Also appeared in NVMW 2020, USENIX ;login: Fall 2020)\n
+`FAST 2020` (Also appeared in NVMW 2020, USENIX ;login: Fall 2020)\n
 \[[https://www.usenix.org/system/files/fast20-yang.pdf paper]\]
+# +(23/138=17%)+
 
 - Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks\n
 Jian Xu\*, *Juno Kim*\*, Amirsaman Memaripour, Steven Swanson (/\* co-first authors/)\n
-`ASPLOS 2019` +(74/350=21%)+\n
+`ASPLOS 2019`\n
 \[[http://cseweb.ucsd.edu/~juk146/papers/ASPLOS2019-APP.pdf paper]\] \[[https://juno-kim.github.io/papers/asplos19-kim-slides.pdf slides]\] \[[https://www.youtube.com/watch?v=NnC_AR8rvmA lightning]\]
+# +(74/350=21%)+
 
 - Basic Performance Measurements of the Intel Optane DC Persistent Memory Module\n
 J. Izraelevitz, J. Yang, L. Zhang, *J. Kim*, X. Liu, A. Memaripour, Y. Soh, Z. Wang, Y. Xu, S. Dulloor, J. Zhao, S. Swanson\n
@@ -64,8 +64,9 @@ J. Izraelevitz, J. Yang, L. Zhang, *J. Kim*, X. Liu, A. Memaripour, Y. Soh, Z. W
 
 - The FuzzyLog: A Partially Ordered Shared Log\n
 Joshua Lockerman, Jose Faleiro, *Juno Kim*, Soham Sankaran, Daniel Abadi, James Aspnes, Siddhartha Sen, Mahesh Balakrishnan\n
-`OSDI 2018` +(47/257=18%)+\n
+`OSDI 2018`\n
 \[[https://www.usenix.org/system/files/osdi18-lockerman.pdf paper]\]
+# +(47/257=18%)+
 
 == Experiences
 *Work*
@@ -76,8 +77,9 @@ Joshua Lockerman, Jose Faleiro, *Juno Kim*, Soham Sankaran, Daniel Abadi, James 
 - Software Engineer at SAP Labs, Seoul, Korea, Dec 2011 - Jul 2014
 
 *Service*
-- External reviewer at DISC 2020
-- External reviewer at IEEE MASCOTS 2019
+#- Revierew at CAL 2023
+- Reviewer at DISC 2020
+- Reviewer at IEEE MASCOTS 2019
 
 *Teaching*
 - Teaching Assistant, Modern Storage Systems (CSE 291A), UCSD, Fall 2019
