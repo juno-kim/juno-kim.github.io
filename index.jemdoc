@@ -23,6 +23,12 @@ Before starting my graduate study, I worked as a software engineer at SAP Labs o
 
 I received my bachelor's degree in Electrical and Computer Engineering at Seoul National University, Korea.
 
+
+== Services
+- Reviewer at IEEE CAL 2023
+- Reviewer at DISC 2020
+- Reviewer at IEEE MASCOTS 2019
+
 == Publications
 # - *: A Thin Runtime Library for Efficient NVMM Management*\n
 # Juno Kim, Joseph Izraelevitz, Steven Swanson\n
@@ -68,41 +74,33 @@ Joshua Lockerman, Jose Faleiro, *Juno Kim*, Soham Sankaran, Daniel Abadi, James 
 \[[https://www.usenix.org/system/files/osdi18-lockerman.pdf paper]\]
 # +(47/257=18%)+
 
-== Experiences
-*Work*
-- Intern at Intel Labs, Systems Software and Architecture Lab, Remote, Jun 2022 - Sep 2022
-- Intern at Intel, Optane Group, Remote, Jun 2021 - Sep 2021
--- Prototyped a [https://github.com/pmem/miniasync persistent-memory library] that leverages Intel’s Data Streaming Accelerator (DSA) engine.
-- Intern at IBM Research, Storage Group, San Jose, CA, U.S.A., Jun 2019 - Sep 2019
-- Software Engineer at SAP Labs, Seoul, Korea, Dec 2011 - Jul 2014
 
-*Service*
-- Reviewer at IEEE CAL 2023
-- Reviewer at DISC 2020
-- Reviewer at IEEE MASCOTS 2019
+== Work Experiences
+- Intern at Intel Systems Software and Architecture Lab, Summer 2022
+- Intern at Intel Optane Group, Remote, Summer 2021
+# -- Prototyped a [https://github.com/pmem/miniasync persistent-memory library] that leverages Intel’s Data Streaming Accelerator (DSA) engine.
+- Intern at IBM Research Almaden Storage Group, Summer 2019
+- Software Engineer at SAP Labs, 2011 - 2014
 
-*Teaching*
-- Teaching Assistant, Modern Storage Systems (CSE 291A), UCSD, Fall 2019
--- [https://github.com/UCSD-Modern-Storage-Systems/MSS-KV-lab Persistent memory key-value library project].
+#   *Teaching*
+#   - Teaching Assistant, Modern Storage Systems (CSE 291A), UCSD, Fall 2019
+#   -- [https://github.com/UCSD-Modern-Storage-Systems/MSS-KV-lab Persistent memory key-value library project].
 
-== Talks
-# An Empirical Guide to the Behavior and Use of Scalable Persistent Memory
-# - NVMW, San Diego, CA, Mar 2020
+#   == Talks
+#    An Empirical Guide to the Behavior and Use of Scalable Persistent Memory
+#    - NVMW, San Diego, CA, Mar 2020
 
-# Toward Efficient Graph Processing on Persistent Memory\
-# - SRC TECHCON, Virtual, Sep 2020
+#   Blaze: Fast Graph Processing on Fast SSDs
+#   - SC, Dallas, TX, Nov 2022
 
-Blaze: Fast Graph Processing on Fast SSDs
-- SC, Dallas, TX, Nov 2022
+#   SubZero: Zero-copy IO for Persistent Main Memory File Systems
+#   - APSys (virtual), Tsukuba, Japan, Aug 2020
+#   - CNS Research Review, UCSD, Oct 2019
 
-SubZero: Zero-copy IO for Persistent Main Memory File Systems
-- APSys (virtual), Tsukuba, Japan, Aug 2020
-- CNS Research Review, UCSD, Oct 2019
-
-Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks
-- ASPLOS, Providence, RI, Apr 2019
-- CMRR Research Review, UCSD, Nov 2018
-- CNS Research Review, UCSD, Oct 2018
+#   Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks
+#   - ASPLOS, Providence, RI, Apr 2019
+#   - CMRR Research Review, UCSD, Nov 2018
+#   - CNS Research Review, UCSD, Oct 2018
 
 #   == Graduate Coursework
 #   === @ Yale University
